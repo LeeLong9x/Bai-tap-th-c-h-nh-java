@@ -1,0 +1,7 @@
+﻿
+minh       1        2
+son       2        5
+dai ka       9        87
+sieu nhan gao       4        23
+gg       3        22
+Lon       1        22
